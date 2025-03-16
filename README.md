@@ -22,5 +22,4 @@ This is a demo Django application with a home page, designed as a starting point
 ### 1. Clone the Repository
 To clone the repository to your local machine:
 ```bash
-git clone <repository_url>
-cd demo_project
+git clone <https://github.com/Kaps-programer-9123/machine_learning_App.git>
